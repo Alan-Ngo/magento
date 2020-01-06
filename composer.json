@@ -69,5 +69,12 @@
     ],
     "extra": {
         "magento-force": "override"
-    }
+    },  
+  "scripts": {
+    "compile": [
+      "chmod 777 *",
+      "chmod 777 generated"
+    ]
+  }
+
 }
