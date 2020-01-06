@@ -3,7 +3,7 @@
 #--------------------------#
 
 /PATCH_*.sh
-
+/vendor/
 /app/etc/local.xml
 
 /media/*
